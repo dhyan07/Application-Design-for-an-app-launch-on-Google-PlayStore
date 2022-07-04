@@ -1,0 +1,1 @@
+# Application-Design-for-an-app-launch-on-Google-PlayStore
